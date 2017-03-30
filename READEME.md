@@ -20,3 +20,7 @@
 -[] aaa
 -[] bbb
 -[] ccc
+<<<<<< 	HEAD
+- [ ] aaaa
+- [ ] bbbb
+- [ ] cccc
