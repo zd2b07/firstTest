@@ -16,3 +16,7 @@
 |:--|--:|:--:|
 |align left|align right|align center|
 |a|b|c|
+
+-[] aaa
+-[] bbb
+-[] ccc
